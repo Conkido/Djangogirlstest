@@ -18,6 +18,9 @@ for numbers in  [2,7,9]:
 for n in range(1,9):
     print(n)
 
+   
+
+
 
 
 
